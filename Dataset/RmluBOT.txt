@@ -643,9 +643,7 @@ Dept. Name	Programmes	Seats	Duration	Fees	Eligibility
 Economics And Rural Development	BVoc (Fine Art VISUAL ART)-(SFS)	50	01 Year 02 Years 03 Years (06 Sem.)	15,000=00	Intermediate / Higher Secondary (i.e. 10+2)
 Economics And Rural Development	MA (Economics and Rural Development)- (Regular)	60	04 Semesters	5,450=00	B.A. with Economics or B.A. / B.Sc. with Mathematics/ B.Com/ B.B.A
 Economics And Rural Development	PhD or DPhil (Economics and Rural Development)	 	 	 	M.A. in Economics or allied discipline
-SYLLABUS
-#	Programme Name	Download
-1	ECONOMICS & RURAL DEVLOPMENT	
+	
 NUMBER OF STUDENT ENROLLED IN Ph.D.
 #	Course Name	Registration No	Candidate's Name	Father's Name	Date Of Birth	Category
 1	ECONOMICS & RURAL DEVELOPMENT	PHD001501	SUSHMITA SINGH	PADUMNATH SINGH	15/07/1994	GEN
@@ -845,6 +843,1002 @@ two long answer type questions from module-I to module-IV, with internal choice.
 to answer one question from each module, carrying 20 marks each. Module- V will be compulsory
 covering eight short answer type questions from module I to module-IV(two questions from each
 Module). Students will have to answer any four questions, carrying five (05) marks each.
+
+
+
+DEPARTMENT OF HISTORY, CULTURE & ARCHAEOLOGY
+
+The Department of History Culture & Archaeology established in 1984 is running composite course in History. For academic enrichment, department organizes lectures of eminent Professors on regular basis. The syllabi cover varied aspects of world history, cultural history, political and socio-economic history, history of Indian national movement and environmental archeology. Due to paragon and pragmatic syllabus more than dozen students have qualified in NET, JRF, Civil Services Examinations and in Academics. Two national level seminars and four refresher courses have been organized in the department till now. The department is also running masters program in tourism administration (MTA) since 2005 under self-finance scheme.
+Department has major thrust on quality research. Many research projects from U.G.C. and other agencies are being carried out. Reshabhdeva Jain Shodh Peeth established in 2001 & Sri Ram Shodh Peeth established in 2000, imbibed with research support facilities are casting great values to research work. Two research Journals “Rishabhadershna” and “Ramanushandhan” comprising research articles are being published by the department.
+
+Kosal Museum displayed with significant artifacts is a prominent centre for research scholars and curious students. The museum is continued to be rich with artifacts found in exploration and excavation expedition in Ayodhya, Barabanki and Ambedkarnagar districts. The department proposes to undertake Buddhist studies, Gandhian studies and Neharuvian studies under the major project scheme of UGC.
+
+FACULTY PROFILE:
+
+
+
+Dr. A.P. SINGH
+Professor/ HOD
+Area of Specialization:
+.
+Email Id.:
+apsingh@rmlau.ac.in
+Mobile No.:
+9415048416
+Full Profile of Dr. A.P. SINGH
+
+
+
+Dr.Sanjay Chaudhary
+Associate Professor
+Area of Specialization:
+.
+Email Id.:
+sanjay@rmlau.ac.in
+Mobile No.:
+9415077097
+Full Profile of Dr.Sanjay Chaudhary
+
+
+
+Dr. Rajesh Singh
+Assistant Professor
+Area of Specialization:
+.
+Email Id.:
+rajeshsingh@rmlau.ac.in
+Mobile No.:
+9455009400
+Full Profile of Dr. Rajesh Singh
+
+
+
+Dr. Diwakar Tripathi
+Assistant Professor
+Area of Specialization:
+.
+Email Id.:
+diwakartripathi@rmlau.ac.in
+Mobile No.:
+9450181679
+Full Profile of Dr. Diwakar Tripathi
+PROGRAMMES OFFERED IN HISTORY CULTURE AND ARCHAEOLOGY
+Dept. Name	Programmes	Seats	Duration	Fees	Eligibility
+History Culture And Archaeology	Bvoc (Tourism and Hospitality)-(SFS)	40	01 Year 02 Years 03 Years (06 Sem.)	15,000=00	Intermediate / Higher Secondary (i.e. 10+2)
+History Culture And Archaeology	MTA (Master in Tourism Administration)-(SFS)	60	04 Semesters	18,450=00	Graduation in any discipline
+History Culture And Archaeology	MA (History Culture and Archaeology)-(Regular)	60	04 Semesters	5,450=00	B.A. with Ancient History / Medieval & Modern History
+History Culture And Archaeology	PhD or DPhil (History Culture and Archaeology)	 	 	 	M.A. in History or allied discipline
+	
+NUMBER OF STUDENT ENROLLED IN Ph.D.
+#	Course Name	Registration No	Candidate's Name	Father's Name	Date Of Birth	Category
+1	HISTORY, CULTURE & ARCHAEOLOGY	PHD001201	GUNJAN BAIS	SANTOSH SINGH BAIS	03/07/1982	GEN
+2	HISTORY, CULTURE & ARCHAEOLOGY	PHD001539	SUMAN BHARTI	RAM ASHISH	05/03/1991	SC
+3	HISTORY, CULTURE & ARCHAEOLOGY	PHD001698	KOMAL VERMA	SATTAN LAL VERMA	21/10/1991	OBC
+4	HISTORY, CULTURE & ARCHAEOLOGY	PHD001822	RAJESH KUMAR AGRAHARI	DURGA PRASAD	15/07/1986	GEN
+5	HISTORY, CULTURE & ARCHAEOLOGY	PHD002569	KANCHAN	MOOLCHAND RAWAT	20/07/1990	SC
+6	HISTORY, CULTURE & ARCHAEOLOGY	PHD003197	SADHANA	RAM NAWAL YADAV	19/04/1992	OBC
+7	HISTORY, CULTURE & ARCHAEOLOGY	PHD003910	VISHAL VIKRAM SINGH	BHUPAL BAHADUR SINGH	16/08/1987	GEN
+8	HISTORY, CULTURE & ARCHAEOLOGY	PHD004122	AKHILESH KUMAR	KASHI NATH TIWARI	01/07/1988	GEN
+9	HISTORY, CULTURE & ARCHAEOLOGY	PHD004959	PRAVEEN KUMAR TIWARI	RADHE MOHAN TIWARI	10/03/1987	GEN
+10	HISTORY, CULTURE & ARCHAEOLOGY	PHD005231	SANGRAM SINGH	VIJENDRA SINGH	25/07/1995	GEN
+11	HISTORY, CULTURE & ARCHAEOLOGY	PHD005588	RANJEET VERMA	DHARAMDAS VERMA	16/06/1995	OBC
+12	HISTORY, CULTURE & ARCHAEOLOGY	PHD005753	ANAND KUMAR DUBEY	ONKAR NATH DUBEY	01/12/1990	GEN
+13	HISTORY, CULTURE & ARCHAEOLOGY	PHD005990	SANTOSH KUMAR JHA	KESARI NATH JHA	15/03/1982	GEN
+
+
+
+
+DR. RAM MANOHAR LOHIA AVADH UNIVERSITY, FAIZABAD
+DEPARTMENT OF HISTORY, CULTURE AND ARCHAEOLOGY
+
+Semester I
+
+MASTER OF ARTS
+SESSION: 2011-2012
+COURSE STRUCTURE
+
+Paper | Course Course Title Max. Theory | Internal
+code Marks | Marks | Assesment
+Ist HCA-101 Indian Culture-I 100 70 30
+IInd | HCA-102 Indian Archaeology-I 100 70 | 30
+IIrd | HCA-103 Political history of Ancient India 100 70 | 30
+(Vedic age to 550 A.D.) -I |
+IVth | HCA-104 History of Medieval India (1206 A.D.- | 100 70 | 30
+A.D. 1707)-I |
+Vth | HCA-105 History of Europe (1789A.D.- 100 70 30
+A.D.1870)
+
+Note: Internal assessment of 30 marks will be awarded by the course teacher on the basis of the Tutorials, Seminars, Attendance and self assessment. Theory part will be evaluated by the four units equally.
+
+Semester II
+
+Paper | Course Course Title Max. | Theory | Internal
+code Marks | Marks assesm.
+Ist HCA-106 | Indian Culture-II | 100 70 30
+IInd HCA-107 | Indian Archaeology-II 100 70 30
+WIrd HCA-108 | Political history of Ancient India (Vedic | 100 70 30
+age to 550 A.D.) —II
+IVth HCA-109 | History of Medieval India (1206 A.D.- 100 70 30
+A.D. 1707)-II
+Vth HCA-110 | History of Europe (1870A.D.-A.D. 1945) | 100 70 30
+Viva-voce M.M. 100
+
+Note: Internal assessment of 30 marks will be awarded by the course teacher on the basis of the Tutorials, Seminars, Attendance and self assessment. Theory part will be evaluated by the four units equally.
+
+DR. RAM MANOHAR LOHIA AVADH UNIVERSITY, FAIZABAD
+DEPARTMENT OF HISTORY, CULTURE AND ARCHAEOLOGY
+
+MASTER OF ARTS
+SESSION: 2011-2012
+COURSE STRUCTURE
+Semester III
+Paper | Course code | Course Title Max. Theory | Internal
+Marks | Marks | assesm.
+Ist HCA-201 Jainism & Buddhism-I 100 70 | 30
+IInd HCA-202 Indian Art & Architecture-I 100 | 70 _ 30
+UIrd HCA-203 Political history of Ancient India 100 70 | 30
+(551A.D.-A.D.1200) —I
+TVth HCA-204 History of Modern India (1757 A.D.- 100 70 | 30
+A.D. 1947)-I
+Vth HCA-205 Social & Economic History of Ancient | 100 70 | 30
+India-I |
+Smester IV |
+Paper | Course . Max. | Theory Internal
+P code Conse Title Marks | Marks assesm.
+Ist HCA-206 | Jainism & Buddhism-II 100 | 70 30
+IInd | HCA-207 | Indian Art & Architecture-II 100. | 70 30
+IlIrd | HCA-208 | Political history of Ancient India 100. | 70 30
+(551A.D.-A.D.1200) —II |
+TVth | HCA-209 | History of Modern India (1757 A.D.- | 100 | 70 30
+A.D. 1947)-II
+Vth | HCA-210 | Social & Economic History of Ancient | 100 | 70 30
+India-I]
+Viva-voce : M.M. 100
+
+Note: Internal assessment of 30 marks will be awarded by the course teacher on the basis of the Tutorials, Seminars, Attendance and self assessment. Theory part will be evaluated by the four units equally.
+
+DR. RAM MANOHAR LOHIA AVADH UNIVERSITY, FAIZABAD
+DEPARTMENT OF HISTORY, CULTURE AND ARCHAEOLOGY
+
+MASTER OF ARTS
+SESSION : 2011-2012
+
+SYLLABUS
+
+SEMESTER — I
+
+Paper-1 : Indian Culture- I 
+HCA-101 M.M. 100 (70+30)
+Unit 1: Origin, antiquity and development of Varna system.
+Origin, antiquity and development of Jati
+The Ashramas. The Purusharthas.
+
+Unit Il: The Education system — The Gurukulas and centres of the higher
+education.
+The Samskaras. The marriage- kinds ( Prashastha & Aprashastha)
+Unit Ill: The condition of women in the social order.
+Theories of the origin of the state, the concept, nature and aim of the
+state. :
+Unit IV: The king- origin, duties and functions. Ganararajya and Local self
+governments;
+Suggested Readings :
+Dutta, BN : Studies in Indian Social Polity.
+Mazumdar, RC : Corporate life in Ancient India.
+Mukerji, RK : Ancient Indian Education.
+Kosambi, DD : An Introduction to the Study of Indian History.
+Kane PV : History of Dharmasastras; vols. I & H.
+Dandekar RN : Recent Trends in Indology.
+Mees GH : Dharma and Society.
+Banerjee, PN : Public administration in Ancient India.
+Ghosal, UN : Studies in Indian History and Culture.
+Prabhu, PH : Hindu Social Organisation.
+Altekar, AS : Education in Ancient India.
+Altekar, AS : State and Government in Ancient India.
+Basham, AL : A Cultural History of India.
+Basham, AL : Wonder that was India.
+Thapar, R : From lineage to the state.
+Pandey, RB : Hindu Samskaras.
+Jaiswal, Suvira : Caste, Origin, Function and dimensions of Charge.
+Sharma, RS : Political ideas and institution in ancient India.
+Sharma, RS : Sudras in ancient India.
+Sharma, RS & Jha : Indian society-Historieal Proving.
+
+Paper 2 :
+HCA-102
+Unit I:
+
+Unit-Il:
+
+Unit II:
+
+Unit IV:
+
+Suggested Readings :
+
+Agarwal, DP
+Agarwal, DP &
+Kharakwal, JS
+Alichin, B & FR
+Banerjee, NR
+Chakraborty, DK
+Dani, AH
+Habibs, I
+Habibs, I
+Grahame, Clarke
+Walter, FA
+Chicago.
+
+Gupta, SP &
+Lal, BB
+
+Ghosh, A
+
+Joshi, JP &
+Bisht, RS
+Kinoyer, JM
+Lal, BB
+Sankalia, HD
+Sharma, GR
+Sinha, BP(ed.)
+Wheeler, REM
+Wheeler, REM
+Wheeler, REM
+Mandal, D
+Mishra, AK
+Mishra, AK
+
+Mishra, VD
+
+
+Archaeology- definition, Scope anjits relation with other
+disciplines. | History of Indian Archaeology. Indian Antiquarian
+Laws.
+Field Archaeology —Principles and methods, planning,
+explorations, excavations.
+Importance of Dating in Archaeology — relative dating,
+Chronoometric, stratigraphy, C-14. Thermoluminicence and
+Dendrochronology.
+
+Indian Archaeology — I
+
+Paleolithic tool typology and their techniques. A brief survey of
+stone age cultures of India — Palaeolitic, Mesolithic and Neolithic.
+
+: Archaeology of India. London.
+
+: South Asian Pre-History. Dethi.
+
+: The rice civilization in India and Pakistan. Cambridge.
+
+: The iron age in India. Dethi.
+
+: The early use of iron in India. Oxford.
+
+: Recent archaeological discoveries in Pakistan. Paris.
+
+: Prehistory. Delhi.
+
+: Indus civilization and other chalcolithic culture. Delhi.
+
+: World Prehistory. Cambridge.
+
+: The roots of ancient India: The archaeology of early Indus civilization.
+
+: Frontiers of Indus civilization. Delhi.
+: City in early historical India. Shimla.
+
+: India and the Indus civilization. Delhi.
+
+: Ancient cities of Indus civilization. Oxford.
+
+: The Earliest Civilization of South Asia. Dethi
+
+: Pre and Protohisiory of India and Pakistan. Pune.
+
+: Bharatiya Sanskriti ka Puratatvika Adhaar. Allahabad.
+: Potteries in ancient India. Patna.
+
+: Archaeology from Earth. Oxford.
+
+: Early India and Pakistan. London.
+
+: The Indua civilization. Cambridge.
+
+: Radiocarbon dates and Indian Archaeology. Delhi.
+. Indian Blackwares. Delhi,
+: Swatantrayottar Bharatiya Puratattva Ke Pahas
+
+Varsha(1947-1997).
+
+: Some aspects of Indian Archaeology. Allahabad.
+
+Ancient India : Bulletin of the archaeological survey of the India.
+Indian Archaeology : a review
+Puratattva; Published by Archaeological sociegrof India.
+
+Paper3: Political History of Ancient India ( Vedic Age to 550 A.D.) —I
+
+HCA-103
+
+Unit I:
+
+Unit Il:
+
+Unit IL:
+
+Unit IV:
+Suggested Readings:
+Allan, J, Haig, TW &
+Dowell HH
+Aalliozat, J
+
+Roychaudhury, HC
+Tripathi, RS
+Barua, BM
+Bhandarkar, DR
+Mookerjee, RK
+Mookerjee, RK
+Mookerjee, RK
+Sastri, KAN
+Thapar, R
+Thapar, R
+Chaudhari, S
+Narain, AK
+Puri, BN
+
+Gupta, PL
+Mzumdar, RC &
+Altekar, AS
+
+
+Vedic Age- evolution of Kingship, administration, state, army,
+justice.
+The King, his powers and checks on his powers.
+Age of Mahajanapadas and the republics of the 6" century B.C.
+Political conditions in the age of Lord Buddha.
+Rise of Magadha under the Haryankas and Shishunagas.
+
+The Nandas — importance in the Indian history.
+The Persian empire of India.
+
+Invasion of India by Alexander III.
+
+Impact and causes of the invasion of Alexander III.
+
+Origin of the Mauryas and foundation of Mauryan empire by
+Chandragupta.
+
+Administration of Mauryas.
+
+Bindusar.
+
+Kingship of Asoka — His objectives and reforms.
+
+The successors of Asoka.
+
+Causes for the downfall of Mauryan empire.
+
+Historical importance of the Sungas and the Kanva dynasties.
+
+: The Cambridge History of India; vols.1
+
+: Political History of India from the earliest time to the &th century
+A.D.; Calcutta.
+
+: Political History of Ancient India. Calcutta.
+
+: History of Ancient India. Delhi.
+
+: Asoka and his inscriptions. Calcutta.
+
+: Asoka. Calcutta.
+
+: Chandragupta Maurya and his Times. Delhi.
+
+: Asoka. Dethi.
+
+- The Gupta Empire. Delhi
+
+- Age of Nandas and Mauryas. Delhi.
+
+: Asoka and decline of the Mauryas. Delhi.
+
+: History of India. Delhi.
+
+. A study in the welfare activities under the Mauryas. Kanpur
+: The Indo Greeks. Delhi.
+
+- India under the Kushanas. Bombay.
+
+: The Imperial Guptas.
+
+- The Vakataka - Gupta Age. Delhi
+
+Paper 4 :
+HCA-104
+
+Unit |:
+
+Unit IT:
+
+Unit III:
+
+Unit IV:
+
+Suggested readings:
+
+History of the Medieval India ( 1206 A.D. to 1707A.D. )-I
+
+Habibullah, ABM
+Tripathi, RP
+Prasad, Ishwari
+Nizami, KA &
+Habib, M
+Hussain, AM
+Pandey, AB
+Habib, Irfan
+Mzumdar, RC
+Lal, KS
+
+Banerji, GM
+Nigam, SBP
+Pandey, AB
+Habib, | & Nizami, KA
+Verma, HC
+Sharma, LP
+
+M.M. 50-440+465
+100(7o +30)
+Foundation of the Muslim empire in India.
+
+The Slave Dynasty- Qutubddin Aibak, IItutmish, Razia, Balban
+
+and his successors
+
+The Khaljis. — Jalaluddin, Alauddin and his successors.
+
+The Tughlugs — Ghiasuddin, Mohd. Bin, Ferozshah and his
+successors.
+The Sayyids
+
+The Lodis
+The Bahamanis
+Empire of Vijayanagar.
+
+: Foundation of Muslim rule in India. Allahabad
+: Some aspects of Muslim administration. Allahabad.
+* : A History of Quranah Turks in India.
+
+: A comprehensive History of India. Vol. V. Delhi
+: Tughlug Dynasty. Calcutta.
+
+: Purva Madhyakalin Bharat.
+
+: Medieval India. Vols. 1 to 7.Delhi
+
+: The History and culture of Indian People. Vol.I. Delhi
+: History of the Khaljis.
+
+: Ferozshah Tughlug.
+
+: Nobility under the Sultanates of Delhi.
+
+: Uttar Mughal kalin Bharat. Allahabad.
+
+: Bharat Ka Brihattar Itihas. Dethi
+
+: Madhyakalin Bharat. Vol.-I. Dethi.
+
+: Madhyakalin Bharat.
+
+loo (10+ Be)
+
+Paper5: History of the Modern Europe (1789 A.D. to A.D.1870) 
+
+HCA-105
+Unit |:
+
+Unit I:
+
+Unit HI:
+
+French Revolution.
+Napoleon the great
+
+Vienna Congress.
+Concert of Europe.
+Revolutions of 1830 A.D. & 1848 A.D.
+
+‘The Lastern Questign
+Greek War of Independence
+Crimean War
+Unit lV: Napoleon Hl.
+Unification of Italy.
+Unification of Germany.
+
+Suggested Readings :
+
+Woodward, FL : French Revolution.
+Carlyle . French Revolution.
+Fisher, HAL : A History of Europe.
+Ketelby, CDM . A History of Modern Times.
+Garshoy, Leo : Europe since Napoleon.
+Thompson Davids : Europe since Napoleon.
+Grant and Temperley :Europe in the 19" and 20" centuries.
+Roberison : Bishmarck.
+Churchil, W : History of Second World War.
+Palmer : A History of Modern Europe.
+Schevill : History of Europe.
+SEMESTER IT
+loo (40 + 20)
+Paper | : Indian Culture —I M.M. 56-40+40)
+HCA-106
+Unit |: Evolution of the state in ancient and early medieval India. Revenue
+system and Land Grants
+Unit II: Indian Aesthetics.
+Unit II: Religious movements — Bhakti, Shufi, Sikhism.
+Unit lV: Indian Renaissance — Arya Samaj, Ram Krishna Mission,
+Theosophical society and Aligarh Movement.
+Suggested Readings : As per course | of the Ist semester.
+(oo (Toxo)
+Paper 2: Indian Archaeology - II MM 56+440+40)
+HCA-107
+Unit l: indus valley civilization- origin, extent, salient features,
+chronology, declingand legacy
+Unit I: Chalcolithic cultures of central India and Deccan : Kayatha, Ahar,
+
+Malwa and Jorwe culture.
+
+ani
+B wk o/ ego UL 5
+Uniti: Copper Hoards, Iron age culture of India, antiquity of iron in
+India. Megalithic cultures of India.
+Unit IV: Painted Greyware culture, Northern Black Polished Ware Culture
+
+and second urbanization in the Ganga plains.
+
+Suggested Readings : Same as course 2 of the first semester.
+
+Paper 3: Political History of Ancient India ( Vedic age to 550 A.D.)-I
+HCA-108 MM 56440+10)
+joo(4o+3e)
+Unit I: The Indo-Greeks, The Indo-Parthians, Kharvel
+The Satavahanas, The Sakas in India
+Unit LU: The Kushanas : Early history, the Kadphises and the Kanishkas.
+Extent of Empire, date of Kanishkas. Fall of Kushanas.
+Unit HI: The Guptas - Origin and early history.
+Chandragupta I and Samudragupta — achievements and life.
+Kacha.
+Unit IV: Chandragupta-II: achievements and life; Mehrauli pillar edict.
+
+Kumargupta, Skandagupta and his successors.
+Administration and decline of the empire.
+
+Suggested Readings : As per course 3 of the first semester.
+
+Paper 4: History of Medieval India (1206 A.D. to A.D.1707) -ll
+HCA-109 M.M. 50-(40+10)
+
+joo (Jo +30)
+Unit I: ‘The Mughals : Origin and introduction
+Baber and Humayun — life and achievements
+
+Unit I: Reign of Akber and Jahangir
+Unit UI: Reign of Shahanjahan and Aurangzeb
+Unit LV: Successors of Aurangzeb
+
+Administration of Mughals
+
+Suggested Readings : Same as course 4 ef the first semester.
+Paper 5 : History of Modern Europe (1871 A.D.-1945 A.D.)
+HCA-110 M.M. 50(40+10y
+Joo (Jo+Be)
+Unit I: IlIrd republic of France.
+Berlin Congress.
+Balkan wars.
+
+International relations between 1871 A.D. and 1914 A.D.
+
+Unit II: First World War.
+Russian revolution of 1905 & 1917 A.D.
+Paris peace conference.
+League of Nations.
+
+Unit LI: Dictatorship in Europe.
+Fascism in Italy- Mussolini.
+Nazism in Germany- Hitler.
+
+Unit LV: Peace efforts between the great wars.
+Collective Security.
+Disarmament.
+The second World War.
+
+Suggested Readings : As per course 5 of the first semester.
+
+Viva-Voce M.M. 100
+
+SEMESTER III
+
+Paper 1: Jainism and Buddhism-I loo (fo+3 PD)
+HCA-201 M.M. 30€46+410)
+Unit I: Antiquity of lord Rishabhadeva; Origin, life and teachings of lord
+Mahavira; Main Jaina Doctrines
+Unit I]: Jaina Sanghas; Spread of Jainism.
+Unit UL: Development of Swetambara and Digambara Jaina path of
+
+knowledge. <
+
+Unit IV: Jaina Philosophy- Jiva and Ajiva; Syadvaada.
+
+a 3H
+Soom a Wipe
+Suggested readings:
+Law, BG
+
+Jain, HL
+
+Se. AC
+
+Mehta, ML
+
+Bulher
+
+Barua, BM
+
+Paper 2:
+HCA-202
+
+Unit I:
+
+Unit Il:
+
+Unit HI:
+
+Unit IV:
+
+Suggested Readings:
+Kumar, AK
+Aggarval, VS
+Saraswati, SK
+Roweand, B
+Shivaramamurty, C
+Banerji, JN
+Brown, P
+Kamrich, S
+Fergussan, J
+
+Ray, NR
+
+Mehta, NC
+
+Archer, WG
+Kuhnel and Goetz
+Das, RK
+
+Paper 3 :
+HCA-203
+
+
+
+: Life of Mahavira
+
+: Bhartiya Sanskriti Mein Jaina Dharma Ka Yogdaana.
+: School and Sects in Jaina literature.
+
+: Jaina Culture
+
+: Indian sects of the Jainas.
+
+2 Ajivikas.
+
+Indian Art and Architecture — I
+
+MLM. 50440+40)
+joo( For Bo)
+Arts of Indus Valley
+The Mauryan Art
+
+Early Stupa Style — Bharhut, Sanchi, Amarawati, Nagarjuni
+
+Konda.
+
+Mathura and Gandhara Schools; Gupta and post Gupta.; Chaitya
+
+and Vihaar.
+
+: History of Indian and Indonasian Art.
+: Indian Art (Hindi Art)
+
+: A Survey of Indian Sculpture.
+
+: Art and Architecture of India.
+
+: Indian Brownzes: Indian Paintings
+
+: Development of Hindu Iconography
+
+: Indian Architecture; vols. I and I]
+
+: Hindu temples Architecture
+
+: History of Indian and Eastern Architecture
+: Moghul Court Paintings
+
+: Studies in Indian Paintings.
+
+: Indian Miniature
+
+: Indian Miniature
+
+. Bharatiya Chitrakala.
+
+Political history of Ancient India (551 A.D. to A.D.1200)-1
+
+M.M. 50¢46+40)
+tool 4o +30)
+
+The Pushyabhutis
+
+Origin of the Rajputas.
+
+The Gurjara-Pratigaras.
+
+The Pallavas.
+
+The Palas.
+
+reall !
+Unit IV:
+
+Suggested Readings:
+
+Mazumdar, RC &
+
+The Chalukyas.
+The Kalachuris.
+The Rastrkutas.
+
+Pulaskar, AD : History and Culture of the Indian People; vols LI and 1V.
+Tripathi, RS : History of Kannauj; Allahabad
+Puri, BN : History of Gurjara-Pratiharas.
+Sinha, BP : The decline of the Kingdom of Magadha.
+Sharma, D : History of Chahmanas.
+Nivogi, R : History of the Gahadvalas Dynasty.
+Mirashi, VV : Kalachuri Rajvansh Tatha Unke Abhilekha.
+Pathak, V : Uttar Bharata Ka Rajnitik Itihaas.
+Shastri, KM : History of the South India.
+Mazumdar, RC : History of Bengal.
+Dikshit, RK : Chandellas of Jajhbhukti; Delhi
+Vaidya, CV : History of Medieval India; New Delhi
+Yazdani, G : Early History of Deccan; Oxford.
+Paper 4: History of the Modern India( 1757 A.D.- A.D.1947) -I
+HCA-204 M.M. 50(40+10)
+160 (Jo +e)
+Unit I: The European Traders in India- Portugese, Dutch
+Unit I: Consolidation of British rule in India(1757-1812)
+Unit I: British relation with principal Indian Powers-
+(a) The Nawabs of Bengal
+(b) The Nawabs of Oudh
+Unit LV: British relation with principal Indian Powers-
+(a) Nizam of Hyderabad
+(b) Marathas
+(c) Sikhs
+
+Suggested Readings :
+
+Dodwell, HH : Dupleix and Clive; London
+
+Dodwell, HH : Cambridge History of India, vol. V; Delhi
+
+Malleson, GB : History of French in India.
+
+Davies, CC : Warren Hastings and Oudh.
+
+Kaye, JW : History of Indian Mutiny.
+
+Kaye, JW : The administration of East India Company.
+
+\fehta, MS : Warren Hasting znd the Indian states.
+
+Mazumdar, RC : History and Culture o ‘the Indian People. vol. IX, part 1; Bombay
+Tarachand : History of Freedom Movement in India, vels. 111 UL.
+
+Sawarkar, VD : Indian war of Independence, 1857.
+
+Sitaramayya, BP : History of Indian National Congress (18835-1935), Madras
+Menon, VP
+Menon, VP
+Menon, VP
+Chandra, Bipan
+Chandra, Bipan
+Azad, AK
+Mazumdar, RC
+Sarkar, Sumit
+Sarkar, Sumit
+
+: Integration of the Indian states.
+
+: Transfer of Power.
+
+: Evolution of India and Pakistan.
+
+: India’s struggle for Independence, New Delhi.
+
+: Nationalism and Colonialism in India.
+
+: Modern India- Origin of an Asian Democracy; New York.
+: Mutiny and revolt of 1857.
+
+: Modern India (1885-1947), Delhi.
+
+: Swadeshi Movement in Bengal.
+
+Paper 5: Social and Economic history of Ancient India-]
+HCA-205 M.M. 50(40+10}
+Too(Yo +30)
+Unit 1: Society and economic conditions as described in the Vedic
+literature, Upnishadas and Mahakavyas.
+Unit I: Social life and economic conditions prevalent in 6" century B.C.
+Unit I: Society and the economic conditions in the age of Mauryas and
+Shungas.
+Unit IV: Social life and economic condition in the age of Satavahana-Saka-
+Kushanas.
+Suggested readings:
+Prabhu, PN : Hindu Social Organisation
+Ghosal, UN : Economic life in Ancient India.
+Rai, Jaimal : Social and economic changes in Ancient India.
+Mukerji, RK : Chandragupta Maurya and his Times.
+Sastri, KAN : Mauryas and Satavahanas.
+Sastri, KAN : Dakshina Bharat Ka Itihaas.
+Yazdani, : Deccan Ka Itihaas.
+Mazumdar, RC _: Age of Imperial Unity.
+Thapar, R : History of Ancient India.
+Thapar, R : Asoka and the decline of the Mauryas.
+Rai, UN : Gupta Kal.
+Gupta, PL : Age of the Guptas.
+Pathak, VN : Uttar Bharat Ka Rajnitik Itihaas.
+Col. Todd : History of Rajasthan.Paper |:
+HCA-206
+
+Unit I:
+
+Unit II:
+
+Unit III:
+
+Unit IV:
+
+Suggested Readings:
+
+Pandey GC
+
+Pandey GC
+
+Couze E
+
+Das SB
+
+Acharya Narendra Dev
+Goel SR
+
+Paper2 :
+HCA-207
+
+Unit I:
+
+Unit Ll:
+
+Unit II:
+
+Unit 1V:
+
+SEMESTER IV
+
+Jainism and Buddhism-II
+
+Background of Buddhism; lord Buddha- life and teachings.
+
+The Buddhist councils; History and development of the early
+Buddhist sects; origin and decline of Buddhism in India.
+
+Hinayana; Mahayana.
+
+Tantrika Buddhism; Yogachaara.
+
+: Studies in the origin of Buddhism.
+
+: Buddha Dharma Ke Vikas Ka Itihaas.
+
+: Buddhism: Its Essence and Development.
+: Introduction of the Tantrika Buddhism.
+
+: Buddha Dharma Darshan.
+
+: A History of Indian Buddhism.
+
+Indian Art and Architecture - II
+M.M.
+
+56(40+10)
+
+loo (JorB9)
+Indus Valley architecture and town planning; Stupa, rock cut
+Chaitya and Viharas.
+
+Evolution of main type of Hindu temples with special reference to
+Orissa, Khajuraho, Pallava, Chalukya and Cholas. Rajputas and
+Indo-Islamic architecture-European impact.
+
+Paintings of Ajanta, age of Sultanates (in brief).
+
+Pahari paintings; Moghul Paintings and paintings of the post
+Moghul era.
+
+Suggested Readings: as per course 2 of the third semester.
+
+
+Paper 3: Political history of Ancient India (551 A.D. to 1200A.D.) - I
+
+HCA-208
+
+
+Unit I: The Rastrakutas — origin, achievements and their administration.
+Their role in the tripartite struggle.
+
+Unit I: The Chahmanas — origin
+Rulers of Sakambhari
+Conflict with the Muslim invaders.
+
+Unit Il: The Parmaras — a. from Upendraraj to Siyaka
+b. Munja and Sindhuraja.
+c. Bhoja and his successors.
+The Chandellas and Gahadvallas.
+
+Unit IV: The Cholas- achievements
+
+-central and local administration.
+Breif History of Kashmir.
+
+Suggested Readings : As per the course 3 of third semester.
+
+Paper 4 : History of the Modern India (1757 A.D.- A.D. 1947) -II
+HCA-209 M.M. 56(40+40)
+loo (F0+ 30)
+Unit I: The revolt of 1857 and its aftermath.
+Unit II: The Gandhian era (1920-1947)
+Unit Ul: The dawn of independence; Rise of communalism leading to the
+
+partition of India.
+
+Unit IV: Indian States and their integration with paramount power.
+Constitution of India (1950)
+
+Suggested Readings : As per the course 4 of the third semester.
+
+Papers : Social and economic history of Ancient India-II
+Unit I: Social and economic life in the age of the Guptas.
+UnitII: Social and econorffic condition in the post Gupta era.
+
+Unit III: Social and economic life in south India under Vakataka-Pallava-
+Chalukyas.
+Unit IV: Social and economic condition in the age of Rajputas.
+
+Suggested Readings : as per course 5 of the IIrd sem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
