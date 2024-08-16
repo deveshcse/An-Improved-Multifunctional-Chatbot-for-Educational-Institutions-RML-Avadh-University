@@ -46,7 +46,7 @@ embedding_fn = HuggingFaceEmbeddings(model_name=model_name)
 api_key = "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"
 
 #Main model client
-chat = ChatGroq(temperature = 0,
+chat = ChatGroq(temperature = 1,
                 groq_api_key = api_key,
                 model_name = "mixtral-8x7b-32768")
 
