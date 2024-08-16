@@ -1,6 +1,6 @@
 import re
 import os
-
+import streamlit as st
 from langchain.text_splitter import RecursiveCharacterTextSplitter, SentenceTransformersTokenTextSplitter
 from langchain_groq import ChatGroq
 from langchain.schema import Document
@@ -9,12 +9,36 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferWindowMemory
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain.prompts import PromptTemplate
 
 #ignoring warnings
 import warnings
 warnings.filterwarnings('ignore')
 
-# os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+
+
+# Define the prompt template with a strict guideline
+template = """
+You are a helpful assistant capable of answering questions about Dr. Rammanohar Lohia Avadh University. 
+Only answer if the information is available in the provided context. If no relevant information is found, respond with:
+
+"I'm sorry, I don't have the information you're looking for. Please visit https://www.rmlau.ac.in/ for more details."
+
+Below is a conversation between you and a user.
+
+Chat History:
+{chat_history}
+
+User Question: {question}
+
+Assistant Response:
+"""
+
+prompt_template = PromptTemplate(
+    input_variables=["chat_history", "question"],
+    template=template,
+)
+
 
 model_name = "sentence-transformers/all-MiniLM-L6-v2"
 embedding_fn = HuggingFaceEmbeddings(model_name=model_name)
@@ -80,11 +104,11 @@ qa_conversation = ConversationalRetrievalChain.from_llm(
     memory=memory
 )
 
-def RAG_Chain(query):
-    print("Generating the response...")
-    # Pass the query with the key 'question'
-    response = qa_conversation({"question": query})
-    return response.get("answer")
+# def RAG_Chain(query):
+#     print("Generating the response...")
+#     # Pass the query with the key 'question'
+#     response = qa_conversation({"question": query})
+#     return response.get("answer")
 
 # while(1):
 #     query = input("Enter the query : ")
@@ -97,3 +121,26 @@ def RAG_Chain(query):
 #     print("Hope it is helpful for you...")
 #     print("Enter 1 if you don't want to continue or ask the queries.")
 #     print()
+
+
+def RAG_Chain(query):
+    print("Generating the response...")
+
+    # Format the chat history for the prompt
+    chat_history = "\n".join(
+        [f"User: {msg['content']}" if msg["role"] == "user" else f"Assistant: {msg['content']}" for msg in st.session_state.messages]
+    )
+
+    # Generate the final prompt using the template
+    final_prompt = prompt_template.format(chat_history=chat_history, question=query)
+
+    # Pass the formatted prompt with the key 'question'
+    response = qa_conversation({"question": final_prompt})
+
+    # If the response is not relevant, return the fallback message
+    answer = response.get("answer", "")
+    if not answer or "I'm sorry" in answer:
+        return "I'm sorry, I don't have the information you're looking for. Please visit https://www.rmlau.ac.in/ for more details."
+    
+    # Add the website reference at the end of relevant responses
+    return f"{answer}\n\nFor more information, visit https://www.rmlau.ac.in/"
